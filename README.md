@@ -1,2 +1,4 @@
 # example
-Graduate school_git course_practice
+Graduate school: git course practice
+
+Try modifications
